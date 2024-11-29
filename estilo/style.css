@@ -76,7 +76,7 @@ header > p {
     margin: auto;
     font-family: var(--fonte-padrao);
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.425);
-    margin-bottom: 10px;
+    padding-bottom: 30px;
 }
 nav {
     background-color: var(--cor5);
